@@ -1189,7 +1189,7 @@
 //https://www.thingiverse.com/thing:4435761
 //#define NOZZLE_TO_PROBE_OFFSET { -37.7, +3.0, -0.56 } //Measured -2.0 ; Z-Offset -1.4
 // So for the sensor that comes with the printer, it attaches directly to the hotend so the offset is 0
-#define NOZZLE_TO_PROBE_OFFSET { 0, 0, -0.85 }
+#define NOZZLE_TO_PROBE_OFFSET { 0, 0, -0.65 }
 
 // Most probes should stay away from the edges of the bed, but
 // with NOZZLE_AS_PROBE this can be negative for a wider probing area.
