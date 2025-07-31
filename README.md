@@ -1,5 +1,5 @@
 # About this Repo
-This repo does contain different preconfigured `Marlin 2.0 Stable (2.0.9.3)` fimrware versions for the TwoTrees Sapphire Plus 3D-Printer. This is a non-offical project. There are several different revisions of this printer out there, so I did multiple branches for different printer configurations. The Sapphire Pro (New Name: SP-3) and newer revisions of the printer (e.g. SP-5) are not supported yet, since tested information is missing for me. If you've got a Printer: Please feel free to do a pull-request, when your firmware is working.
+This repo does contain different preconfigured `Marlin 2.0 Stable (2.0.9.3)` fimrware versions for the TwoTrees Sapphire Plus 3D-Printer. This is a non-offical project. There are several different revisions of this printer out there, so I did multiple branches for different printer configurations. Newer revisions of the printer (e.g. SP-5) are not supported yet, since tested information is missing for me. If you've got a Printer: Please feel free to do a pull-request, when your firmware is working.
 
 <img align="center" width=1200 src="/readMeImgs/Interface.jpg" />
 
@@ -31,6 +31,7 @@ Branch Name |Z-Axis Type|Driver Z-Axis|Driver Else|Hotend|BL-Touch|Firmware Test
 [`Stock_Sapphire_Plus_SyncedZ`](https://github.com/RolfZuckowskiUltras/TwoTrees_Sapphire_RawMarlin/tree/Stock_Sapphire_Plus_SyncedZ)             |BS|A4988|TMC2208|Stock|No|✗, but Specs known working
 [`Stock_Sapphire_Plus_SyncedZ_Hemera`](https://github.com/RolfZuckowskiUltras/TwoTrees_Sapphire_RawMarlin/tree/Stock_Sapphire_Plus_SyncedZ_Hemera)      |BS|A4988|TMC2208|E3D Hemera|No|✗, but Specs known working
 [`Stock_Sapphire_Plus_SyncedZ_Hemera_BLT`](https://github.com/RolfZuckowskiUltras/TwoTrees_Sapphire_RawMarlin/tree/Stock_Sapphire_Plus_SyncedZ_Hemera_BLT)  |BS|A4988|TMC2208|E3D Hemera|Yes|✗, but Specs known working
+[`Stock_Sapphire_Pro`](https://github.com/RolfZuckowskiUltras/TwoTrees_Sapphire_RawMarlin/tree/Stock_Sapphire_Plus_SyncedZ_Hemera_BLT)  |BS|A4988|TMC2208|Stock|No|✓
 
 # Upgrading your Machine
 ## Better Extruder/E3D-Hemera
